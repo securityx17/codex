@@ -1,5 +1,6 @@
 site_name: Regelgeving
 site_author: 'Codex Roleplay'
+site_url: 'https://securityx17.github.io/apv'
 theme:
   name: material
 
